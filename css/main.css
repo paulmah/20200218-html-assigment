@@ -2,17 +2,30 @@
 comment markers also valid in c, c#
 */
 
-p {
+p { 
 color: red;
 background: gray;
+font-size: 36px;
+text-decoration: overline underline;
 }
 
 h2 {
 color: green;
 background: orange;
+text-decoration: line-through;
 }
 
 h1 {
 color: purple;
 background: green;
 }
+
+#my-p{
+color: yellow;
+height:200px
+}
+
+.blue-bg {
+   background: blue;
+}
+/* id example octathorp = # > used once*/
